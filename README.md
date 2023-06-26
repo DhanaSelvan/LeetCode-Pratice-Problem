@@ -1,1 +1,1 @@
-# LeetCode-Pratice-Problem
+# Pratice-Problem
